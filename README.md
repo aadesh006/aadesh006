@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, Myself Aadesh Chaudhari</h1>
-<h3 align="justify">Computer Science student. I’m passionate about building real-world projects, solving problems with code, and constantly learning new technologies. I’m currently focused on strengthening my skills in Data Structures & Algorithms, AI/ML, and just enough Web Development to build full-stack applications for hackathons and personal projects. I enjoy participating in tech communities, exploring robotics, and working on creative ideas—from AI agents to game development.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadesh006&label=Profile%20views&color=0e75b6&style=flat" alt="aadesh006" /> </p>
+<h4 align="justify">Computer Science student. I’m passionate about building real-world projects, solving problems with code, and constantly learning new technologies. I’m currently focused on strengthening my skills in Data Structures & Algorithms, AI/ML, and just enough Web Development to build full-stack applications for hackathons and personal projects. I enjoy participating in tech communities, exploring robotics, and working on creative ideas—from AI agents to game development.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
