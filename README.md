@@ -1,6 +1,6 @@
 # Hi there, I'm Aadesh Sanjay Chaudhari!
 
-### 🚀 Systems Engineering Student & Low-Level Enthusiast
+### Engineering Student
 
 I am a computer science student passionate about understanding how computers work under the hood. My focus is on **Systems Programming**, **OS Development**, and **High-Performance Computing**. I believe in learning by building.
 
