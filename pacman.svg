@@ -1,0 +1,39 @@
+<svg width="100%" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .track { fill: none; stroke: none; }
+    .dot { fill: #ffb8ae; animation: hideDot 4s infinite linear; }
+    .pacman { fill: #FFFF00; animation: movePacman 4s infinite linear, chomp 0.25s infinite alternate; }
+    
+    @keyframes movePacman {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(600px); }
+    }
+    @keyframes chomp {
+      0% { clip-path: polygon(100% 0%, 100% 100%, 50% 50%, 0% 100%, 0% 0%); }
+      100% { clip-path: polygon(100% 0%, 100% 100%, 90% 50%, 0% 100%, 0% 0%); } /* Simplified chomp for compatibility */
+    }
+    /* Dots disappear as pacman passes */
+    @keyframes hideDot {
+      0% { opacity: 1; }
+      10% { opacity: 1; } /* Wait for pacman */
+      15% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+  </style>
+
+  <rect width="100%" height="100%" fill="#0d1117" />
+
+  <g transform="translate(0, 50)">
+    <circle cx="100" cy="0" r="5" class="dot" style="animation-delay: 0.6s"/>
+    <circle cx="200" cy="0" r="5" class="dot" style="animation-delay: 1.2s"/>
+    <circle cx="300" cy="0" r="5" class="dot" style="animation-delay: 1.8s"/>
+    <circle cx="400" cy="0" r="5" class="dot" style="animation-delay: 2.4s"/>
+    <circle cx="500" cy="0" r="5" class="dot" style="animation-delay: 3.0s"/>
+  </g>
+
+  <g transform="translate(0, 50)">
+     <circle cx="0" cy="0" r="25" class="pacman">
+       </circle>
+      <circle cx="5" cy="-10" r="3" fill="#000" class="pacman-eye" style="animation: movePacman 4s infinite linear;" />
+  </g>
+</svg>
