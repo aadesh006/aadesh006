@@ -25,7 +25,7 @@ I am a computer science student passionate about understanding how computers wor
 | :--- | :--- | :--- | :--- |
 | **Lumina** | A high-performance image processing library | `CUDA`, `C++` | Active |
 | **A-Sharp** | A bytecode virtual machine and interpreter | `C` | In Progress |
-| **GPOS** | A custom OS | `C`, `Assembly` | Architecture |
+| **Kernix** | A custom OS | `C`, `Assembly` | Architecture |
 
 ---
 
