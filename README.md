@@ -6,7 +6,7 @@ I am a computer science student passionate about understanding how computers wor
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -19,7 +19,7 @@ I am a computer science student passionate about understanding how computers wor
 
 ---
 
-### 🔭 Current Projects
+### Current Projects
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
@@ -29,14 +29,14 @@ I am a computer science student passionate about understanding how computers wor
 
 ---
 
-### ⚡ What I'm Learning Currently
+### What I'm Learning Currently
 - **Parallel Computing:** Deep diving into CUDA kernels and GPU architecture.
 - **Compiler Design:** Building interpreters to understand language implementation.
 - **OS Internals:** Memory paging, scheduling, and kernel development.
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aadesh-chaudhari-9681b7327/">
